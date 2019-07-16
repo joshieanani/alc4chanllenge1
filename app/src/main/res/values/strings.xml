@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ALC4.0Challenge1</string>
+    <string name="about_alc_button_text">About ALC</string>
+    <string name="profile_button_text">Profile</string>
+    <string name="profile_name_text">Name</string>
+    <string name="profile_track_text">Track</string>
+    <string name="profile_image_descriptor">Profile photograph of ALC participant</string>
+    <string name="profile_country_text">Country</string>
+    <string name="profile_email_text">Email</string>
+    <string name="profile_phone_text">Phone</string>
+    <string name="profile_activity_title">Profile</string>
+    <string name="about_activity_title">About ALC</string>
+</resources>
